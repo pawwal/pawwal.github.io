@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Paweł Walczak
-
 Principal Software Engineer, Deputy Head of Laboratory at National Information Processing Institute, Poland
 
 ## About Me
