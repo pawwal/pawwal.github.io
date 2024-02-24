@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Paweł Walczak
 ---
 
 Principal Software Engineer, Deputy Head of Laboratory at National Information Processing Institute, Poland
