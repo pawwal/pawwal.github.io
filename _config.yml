@@ -33,10 +33,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-minima:
-  nav_pages:
-    - reading_list.md
-
 header_pages:
   - reading_list.md
 
