@@ -3,11 +3,6 @@ layout: post
 title: Laws You Need Know to Successfully Annoy Your Boss
 ---
 
----
-layout: post
-title: Laws You Need to Know to Successfully Annoy Your Boss
----
-
 # Brook’s Law
 
 Adding manpower to a late software project makes it later.
